@@ -1,0 +1,75 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+    }
+
+    header {
+        background-color: #ff0000;
+        padding:10px;
+        font-size: 30px;
+        display: block;
+        width: 100%;
+        border: 5px double #00ff00;
+        margin: auto;
+
+    }
+    nav {
+      border-style: dashed;border-color: green;
+        line-height:;
+        background-color:;
+        width: 100%;
+        display: inline-block;
+
+    }
+    li{
+      display: inline;list-style: circle;
+    }
+
+    }*/
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+#prslogo{
+  height: 120px;
+  }
+  h1{
+    text-align: center;
+  }
+h1, #prslogo{
+  display: inline-block;
+  padding-left: 210px;
+}
+#meeting{
+  border-style: dashed; border-color: blue;
+  width: 100%;
+}
+footer{
+  padding-left: 600px;
+}
